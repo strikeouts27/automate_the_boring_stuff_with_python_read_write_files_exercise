@@ -1,0 +1,22 @@
+https://automatetheboringstuff.com/2e/chapter9/
+
+write mode: "w" 
+Python allows you to write content to a file in a way similar to how the print() function “writes” strings to the screen. You can’t write to a file you’ve opened in read mode, though. 
+Instead, you need to open it in “write plaintext” mode or “append plaintext” mode, or write mode and append mode for short.
+Write mode will overwrite the existing file and start from scratch, just like when you overwrite a variable’s value with a new value. Pass 'w' as the second argument to open() to open the file in write mode.
+
+.write() tells python to write stuff to the file for you. 
+
+Where is the data I need? 
+What are the needs of the project? 
+I need a test file. 
+Inside of the test file I need a test question for 50 states. 
+Each question needs one correct answer. 
+Each question requires three incorrect answers. 
+These question orders need to be randomized. 
+
+I need an answer key file. 
+I would need each question presented. 
+I would need an answer key for each question. 
+Answer as a choice 
+and than three wrong answers

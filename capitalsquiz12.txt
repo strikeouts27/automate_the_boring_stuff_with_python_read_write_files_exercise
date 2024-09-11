@@ -1,0 +1,6 @@
+50. What is the capital of New York?
+   A. Albany
+   B. Topeka
+   C. Helena
+   D. Santa Fe
+

@@ -1,0 +1,6 @@
+50. What is the capital of California?
+   A. Madison
+   B. Sacramento
+   C. Tallahassee
+   D. Raleigh
+

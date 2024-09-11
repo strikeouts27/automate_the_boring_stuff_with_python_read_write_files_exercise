@@ -1,0 +1,6 @@
+50. What is the capital of Colorado?
+   A. Boise
+   B. Frankfort
+   C. Phoenix
+   D. Denver
+

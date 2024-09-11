@@ -1,0 +1,6 @@
+50. What is the capital of California?
+   A. Columbus
+   B. Jefferson City
+   C. Sacramento
+   D. Jackson
+
